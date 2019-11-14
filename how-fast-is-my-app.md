@@ -12,6 +12,7 @@ The slides are at https://speakerdeck.com/gotimer/how-fast-is-my-app-performance
 
 * Gatling  https://gatling.io/
 * Apache JMeter  https://jmeter.apache.org/
+* Google PageSpeed Insights  https://developers.google.com/speed/pagespeed/insights/
 
 ## Contact Gene Gotimer
 
