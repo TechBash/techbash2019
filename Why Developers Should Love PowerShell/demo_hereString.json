@@ -1,0 +1,21 @@
+{
+  "placeCode": "KURTS_APOSTROPHIED_BUILDING",
+  "placeInfo": "Kurt's Apostrophie'd \"Building\"",
+  "parentPlaceId": 1,
+  "placeTypeId": 2,
+  "primaryUseId": null,
+  "weatherStationCode": "UNV",
+  "buildDate": null,
+  "address": {
+    "addressTypeId": "1",
+    "country": "US",
+    "line1": "",
+    "line2": "",
+    "city": "State College",
+    "state": "PA",
+    "postalCode": "16803",
+    "latitude": "",
+    "longitude": "",
+    "weatherStationCode": "UNV"
+  }
+}
