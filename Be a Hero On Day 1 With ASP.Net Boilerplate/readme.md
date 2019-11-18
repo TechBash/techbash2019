@@ -5,6 +5,7 @@ Start your next ASP.Net project with a fully functional, attractive site with sc
 # ABP Resources
 
 * [This Presentation Slides (pdf)](abp.pdf)
+* [The Code](https://github.com/lprichar/LeesStore/tree/product-crud)
 * [This Presentation Video (YouTube)](https://youtu.be/xmHTYF5RvMs)
 * [ASP.Net Boilerplate Home Page](https://aspnetboilerplate.com/)
 
